@@ -1,7 +1,7 @@
 # Risk Assessment Tool
 
 This tool helps you identify risks associated with every method in a smart contract.
-Use this to adequatly test critical parts of your system.
+Use this tool to adequately test critical parts of your system.
 
 # Installation
 
@@ -9,7 +9,7 @@ Use this to adequatly test critical parts of your system.
 
 # Usage
 
-Just intall it with npm and run
+Just install it with npm and run
 `solidity-risk-assess <solidity-files>`.
 
 ```bash
